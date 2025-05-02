@@ -35,7 +35,7 @@ B. Nginx on EC2:
 Screenshots of desktop and mobile views can be attached or embedded in the GitHub README.
 
 6. Useful Links
-- Live Website: [https://my-unique-nasha.s3.ap-south-1.amazonaws.com/momo+corner+index.1.html]
+- Live Website: [https://my-unique-nasha.s3-website.ap-south-1.amazonaws.com]
 - GitHub Repository: [https://github.com/Manoj-kawasaki/momo-corner-website/edit/main/README.md]
   
 7. Conclusion
