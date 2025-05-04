@@ -36,6 +36,8 @@ Screenshots of desktop and mobile views can be attached or embedded in the GitHu
 
 6. Useful Links
 - Live Website: [https://my-unique-nasha.s3-website.ap-south-1.amazonaws.com]
+live website desktop 🖥️:
+[https://my-unique-nasha.s3.ap-south-1.amazonaws.com/indexs.html]
 - GitHub Repository: [https://github.com/Manoj-kawasaki/momo-corner-website/edit/main/README.md]
   
 7. Conclusion
